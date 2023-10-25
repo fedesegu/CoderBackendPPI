@@ -1,0 +1,68 @@
+[
+    {
+      "status": true,
+      "title": "Fideos",
+      "description": "Comida",
+      "price":600,
+      "stock": 2000,
+      "code": "Code001",
+      "category": "A",
+      "thumbnails": "https://",
+      "id": 1
+    },
+    {
+      "status": true,
+      "title": "Gaseosa",
+      "description": "Bebidas",
+      "price": 700,
+      "stock": 300,
+      "code": "Code002",
+      "category": "B",
+      "thumbnails": "https://",
+      "id": 2
+    },
+    {
+      "status": true,
+      "title": "Yerba",
+      "description": "Infusiones",
+      "price": 900,
+      "stock": 250,
+      "code": "Code003",
+      "category": "C",
+      "thumbnails": "https://",
+      "id": 3
+    },
+    {
+      "status": true,
+      "title": "Cerveza",
+      "description": "Bebidas",
+      "price": 500,
+      "stock": 300,
+      "code": "Code004",
+      "category": "B",
+      "thumbnails": "https://",
+      "id": 4
+    },
+    {
+      "status": true,
+      "title": "Atún",
+      "description": "Comida",
+      "price": 1000,
+      "stock": 400,
+      "code": "Code005",
+      "category": "A",
+      "thumbnails": "https://",
+      "id": 5
+    },
+    {
+      "status": true,
+      "title": "Lavandina",
+      "description": "Productos Limpieza",
+      "price": 300,
+      "stock": 200,
+      "code": "Code006",
+      "category": "D",
+      "thumbnails": "https://",
+      "id": 6
+    }
+  ]
